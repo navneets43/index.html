@@ -135,7 +135,7 @@
     <div id="wrapper">
         <header>
             <div id="logo">
-                <a href="https://www.gignow.com/" target="_blank"><img src="C:\Users\navne\OneDrive\Desktop\email-template\images\logo.png"></a>
+                <a href="https://www.gignow.com/" target="_blank"><img src="logo.png"></a>
             </div>
             
     <br>

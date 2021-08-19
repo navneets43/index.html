@@ -18,13 +18,13 @@
         font-size: 18px;
         max-width: 800px;
         margin: 0 auto;
-        background-color: #71f1f1  ;
+        background-color: #fbfcfd  ;
         
         padding: 2%;
         color: #565859;
     }
     #wrapper{
-        background: #aec2e7;
+        background: #b1c5e4;
     }
     img{
         max-width: 100%;
@@ -125,7 +125,7 @@
     
 </style>
     
-    
+  
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    
 
